@@ -221,6 +221,22 @@ project.lock.json
 # UWP Projects
 AppPackages/
 
+# Visual Studio Code
+.vs
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Compiled files
+bin/
+obj/
+
+# NuGet Packages
+*.nuget.props
+*.nuget.targets
+
+
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
 #####
